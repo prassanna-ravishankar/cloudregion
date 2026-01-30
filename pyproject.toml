@@ -19,9 +19,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://prassanna-ravishankar.github.io/cloudregion/"
+Homepage = "https://prassanna.io/cloudregion/"
 Repository = "https://github.com/prassanna-ravishankar/cloudregion"
-Documentation = "https://prassanna-ravishankar.github.io/cloudregion/"
+Documentation = "https://prassanna.io/cloudregion/"
 
 [dependency-groups]
 dev = [

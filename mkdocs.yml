@@ -1,6 +1,6 @@
 site_name: cloudregion
 repo_url: https://github.com/prassanna-ravishankar/cloudregion
-site_url: https://prassanna-ravishankar.github.io/cloudregion
+site_url: https://prassanna.io/cloudregion
 site_description: Simple Python library that converts between cloud region names across AWS/Azure/GCP.
 site_author: Prass, The Nomadic Coder
 edit_uri: edit/main/docs/
